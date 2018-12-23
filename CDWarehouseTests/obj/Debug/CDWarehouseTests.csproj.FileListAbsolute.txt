@@ -1,0 +1,16 @@
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\bin\Debug\CDWarehouseTests.dll
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\bin\Debug\CDWarehouseTests.pdb
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\bin\Debug\CDWarehouse.dll
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\bin\Debug\CDWarehouse.pdb
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\obj\Debug\CDWarehouseTests.csproj.CoreCompileInputs.cache
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\obj\Debug\CDWarehouseTests.csproj.CopyComplete
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\obj\Debug\CDWarehouseTests.dll
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\obj\Debug\CDWarehouseTests.pdb
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouseTests\obj\Debug\CDWarehouseTests.csprojAssemblyReference.cache

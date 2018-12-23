@@ -1,0 +1,6 @@
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouse\bin\Debug\CDWarehouse.dll
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouse\bin\Debug\CDWarehouse.pdb
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouse\obj\Debug\CDWarehouse.csproj.CoreCompileInputs.cache
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouse\obj\Debug\CDWarehouse.dll
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouse\obj\Debug\CDWarehouse.pdb
+C:\Users\Dragica\source\repos\CDWarehouse\CDWarehouse\obj\Debug\CDWarehouse.csprojAssemblyReference.cache
